@@ -1,0 +1,3 @@
+
+test:
+	go1.18beta1 test -v ./...
